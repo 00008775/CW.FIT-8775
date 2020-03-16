@@ -1,0 +1,182 @@
+Introduction
+A little start up business  which makes a IOS and Android, have an objective to arm itself with present day programming devices that are utilized for mobile apps on IOS  and Android operation systems. This new company is not s o big and famous. As it is mentioned above IT consult provides with advice and recommendation about Hardware and Software solutions.
+Review of tools
+Manage requirements highlights, and use cases. Guide tests to necessities to follow test inclusion. 
+Manage requirements, highlights, and use cases. Guide tests to necessities to follow test inclusion. Firstly we should select computer types. Taking into account that this new company makes or builds Android and IOS apps, it is highly recommended iMac desktops or MacBook air laptops. Because when you use laptops which work on Windows OS they cannot build apps for IOS systems. iMac desktop configurations are :
+1.   	Display: 21.5-inch (diagonal) LED-backlit display.
+2.   	Processor: 2.3GHz.
+3.   	Memory: 8GB of 2133MHz DDR4 memory.
+4.   	Storage: 1TB.
+5.   	Graphics: Intel Iris Plus Graphics 640.
+6.   	Video Support and Camera: FaceTime HD camera.
+7.   	Audio: Stereo speakers.
+8.   	Connections and Expansion. Headphone SDXC card slot USB 3 Thunderbolt 3 (USB-C) Gigabit Ethernet.
+  MacBook air configurations are:
+1.	Display: Retina display, 13.3-inch (diagonal) LED-backlit display with IPS technology; 2560-by-1600 native resolution at 227 pixels per inch with support for millions of colors
+2.	Touch ID: Integrated Touch ID sensor
+3.	Processor: 1.6GHz dual-core Intel Core i5, Turbo Boost up to 3.6GHz, with 4MB L3 cache
+4.	Storage: 128GB PCIe-based SSD ,Configurable to 256GB, 512GB, or 1TB SSD, 256GB PCIe-based SSD, Configurable to 512GB or 1TB SSD
+5.	Memory: 8GB of 2133MHz LPDDR3 onboard memory,Configurable to 16GB of memory
+6.	Battery and Power: Up to 12 hours wireless web Up to 13 hours Apple TV app video playback Up to 30 days of standby time Built-in 49.9‑watt‑hour lithium‑polymer battery 30W USB-C Power Adapter; USB-C power port
+7.	Size and Weight: Height: 0.16–0.61 inch (0.41–1.56 cm),Width: 11.97 inches (30.41 cm),Depth: 8.36 inches (21.24 cm),Weight: 2.75 pounds (1.25 kg)3
+8.	Graphics:Intel UHD Graphics 617, Support for Thunderbolt 3–enabled external graphics processors (eGPUs)
+
+
+
+Name and Price	OS/browsers support/	Short description	Benefits	Limitation
+Design and Prototyping	 	 	 	 
+Canva
+Price:
+US $12.95/month
+Canva for work
+ 	Cloud based
+SaaS solution
+Browser Support:
+Chrome, Microsoft Internet Explorer, Mozilla Firefox, Safari	Canva's powerful drag and drop editor, along with its vast selection of images, fonts, and templates	·         You can create unlimited folder
+·         No storage is limited for the photo and assets	Much free icons are not available
+Pricing (2)
+Wireframe.cc
+Price:
+US $16.00/month
+Starting	Cloud based
+SaaS solution
+Browser Support:
+Chrome, Microsoft Internet Explorer, Mozilla Firefox, Safari	With the help of Wireframe.cc, you can create layout of the website and show what interface components can exist on main pages	·         Easily accessible to nearly everyone
+·         Interface is very clean and understandable	No drag & drop feature and there is no feedback management (3)
+InVision Studio
+Price:
+US $15/month	Platform:
+Mac	This software solution design, prototyping, and collaboration into one harmonious workflow	·         Fast
+·         Creating live prototyping is easy	No windows version available
+Delay and poor communication from this program
+
+Adobe Photoshop
+CC
+Price:
+US $407.88/year	Platform:
+Mac/Windows	Image editing software solution and mainly famous among professional photographer and graphic designing	·         No internet connection
+·         Easy to create Website design and mockup	High pricing
+Full Functionality may be out of Reach (11)
+
+Project management	 	 	 	 
+Basecamp
+Price:
+US $99/month	Cloud based
+SaaS solution
+Browser Support:
+Chrome, Microsoft Internet Explorer, Mozilla Firefox, Safari
+Platform:
+Mac/Windows/
+Android/IOS	Basecamp users can plan and manage trips, organize user data	•       	Keeping calendar of the project
+•       	Working with unlimited projects	No Time Tracking or Reporting, No Tags
+Too Much Easiness
+Trello
+Price:
+Free	Cloud based
+SaaS solution
+Browser Support:
+Chrome, Microsoft Internet Explorer, Mozilla Firefox, Safari
+Platform:
+Mac/Windows/
+Android/IOS	Trello is the cloud-based software solution which helps to manage tasks and overview what is being done.	·         Customizable lists
+·         Simple collaboration of entire team
+·         The ability to upload files easily
+·         free	Difficult to do big projects
+May be storage limit
+GitHub
+Price:
+Free
+ 	Cloud based
+SaaS solution
+Browser Support:
+Chrome, Microsoft Internet Explorer, Mozilla Firefox, Safari
+Platform:
+MacOS/Windows/
+Ubuntu Linux	GitHub is project management software solution	·        Easy to review
+·         Easy to use
+·         Free
+·         Simple collaboration of entire team
+ 
+ 	Less maintainable
+Less personal changes
+Atlassian Confluence,
+JIRA Software
+Price:
+US $120/year	Cloud based
+SaaS solution
+Browser
+support:
+Chrome, Microsoft Internet Explorer, Mozilla Firefox, Safari	Content collaboration tool,
+Content management tool,
+Involving in documenting and managing of the product	•       	Scheduling and tracking
+•        	Documentation for quality development
+•       	Reports in business speak	You must restart the appliance once restoring AD from backup(1)
+Blueprint RCM
+Price:
+US $80	Cloud based
+SaaS solution
+Browser Support Chrome, Microsoft Internet Explorer, Mozilla Firefox, Safari
+Platform: Windows, Mac	Content collaboration tool, Content management tool,
+Involving in documenting and managing of the product
+ 	•       	Enrich textual requirements with visual models
+•       	Automatically generate user stories and test cases
+•       	Centralize and reuse requirements	Approval management is deficient with
+regards to features and functionality.
+ Appium
+ 
+ 
+Price: Free	 Windows MacOS and Linux	Mobile app automated testing tool for IOS and Android
+Dan Cuellar developed the tool in 2011
+In 2014, the tool won the award for being the strong open source tool	Strong tool that is an open source
+Multiple developing languages supported for testing
+Supports JSON wire	Slow testing
+Androids under 4.2 is impossible to test
+Selendroid
+ 
+ 
+Price: Free	Windows, Mac OS, Linux	Test automation framework for native and hybrid apps
+Used the Selenium 2 client API to write testing	Fully supports JSON Wire Protocol/ Selenium Ready 3
+Multiple Android devices can be interacted
+	Quite slow testing process
+Only Android apps can be tested
+Machines with less than 4GB RAM can hardly test, or even cannot
+Development	 	 	 	 
+ XCode 
+Price: free for MacOS
+	 MacOS	 MacOS applications development tool.
+Supports Swift to develop IOS mobile applications.
+IDE to build Apple products.	 Autocompleter makes coding fast and easy.
+Optimized testing features. 
+	 Limited OS support(Works for Mac OS only)
+Android Studio	Windows OS / Mac OS / Linux OS / Chrome OS	Official IDE for android development.
+Requires:
+RAM: min 4 GB, recommended (8 GB)
+4GB available disc space (0.5 GB for IDE and 1.5 GB for Android SDK and emulator)	Assists to code fast and easily with an autocompleter.
+Google platform supports well.
+Easy to change the layouts even in existing applications.
+	Utilizes a lot of RAM.
+
+When using Platform Tools 29.0.3, native debugging and Android Studio Profillers may fail to work properly.
+Servers
+ Amazon Web Server	 Windows OS
+Linux OS
+Cloud-based PaaS solution	 	 	 
+ Google cloud	 	 	 	 
+ 
+Justification and Recommendation
+Jira and Blueprint RCM are chosen for the start up team’s management over the project. Jira is a cloud-based SaaS tool. Jira is an easy to use project management tool and it has lots of effective tools. With Jira scheduling and tracking is easy and comfortable. However, once AD is restored from backup, it must be restarted, additionally, its pricing is high, which is $120 for a year. Blueprint RCM is another cloud-based SaaS solution for managing a project, supporting almost all browsers. It is a useful management, collaboration and documenting tool. One of the most comfortable sides of the Blueprint RCM is the availability of automatic generation of user stories and test cases. However, not all functionalities and features are completely user friendly. Membership costs $80.
+New start up of mobile applications development is recommended Jira project management tool. Because it is more suitable for this kind of business as it is more user friendly and has a variety of efficient tools.
+
+For designing and prototyping, Canva, Wireframe.cc, InVision Studio and Adobe Photoshop are found to be competitive tools. Canva is a famous, easy to use and user-friendly cloud-based SaaS solution that is widely used by graphic designers and bloggers. Its functions are easy to understand and implement. Basic plan is free, premium is $12.95 for a month. Prototyping tools’ options inside Canva are so wide, that a designer probably uses almost all functions. However, in the free version naturally there is a limit for most of the functions which are available for premium users. Wireframe.cc is another cloud-based designing tool. With the help of Wireframe.cc, website layouts can be created and show what interface has to the main page. The tool is easily accessed and its interface is clean and easily can be understood. However, the tool has no drag and drop functions, which usually users find comfortable, also there is no feedback management. Wireframe.cc costs $16 per month. Next, InVision Studio is an on-premise based software tool that supports Mac. Wide range of functionality allows users to collaborate easily during the designing and prototyping process. Creating live prototyping is easy and fast. However, disadvantages are that it has no versions for Windows and poor support of users in terms of communication. The monthly use costs $15. One of the most popular designing tools is Adobe Photoshop that is supported in Mac and Windows. This tool is mostly used for editing photos and graphic designing. Upward of the program are that can be used while there is no internet connection and easy to use functionalities. Disadvantages of the Adobe Photoshop are it is highly priced and some functionalities may be out of reach.
+After analyzing various designing tools, Canva has more upward sides compared to other tools. Because, its functionalities are useful, user-friendly and easy to understand. Thus, Canva is recommended for start up for mobile applications development.
+
+From testing tools, the strongest 2 tools are selected namely Appium and Selendroid. Appium is a free testing tool for cross-platforms, which can test IOS and Android. Appium was developed by Dan Ceullar in 2011. Most favorable sides of the Appium are that it supports various programming languages and JSON wire. But, testing is slowly progressing and not all Android versions can be tested. Selendroid is another popular testing tool that is open source. Selendroid fully supports JSON wire and can be interacted with multiple Android devices. 
+
+ 
+References
+1. Jira Software Licensing | Atlassian [Internet]. Atlassian. 2019 [cited 17 February 2019]. Available from: https://www.atlassian.com/licensing/jira-software
+2. Canva Reviews: Overview, Pricing and Features [Internet]. Financesonline.com. 2019 [cited 17 February 2019]. Available from: https://reviews.financesonline.com/p/canva/
+3. Wireframe.cc Reviews and Pricing - 2019 [Internet]. Capterra.com. 2019 [cited 17 February 2019]. Available from: https://www.capterra.com/p/145712/Wireframe-cc/
+ 
+ 
+
